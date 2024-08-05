@@ -1,4 +1,4 @@
 import os
 
 print("Hello World")
-os.system('pause')
+input("Type something fat nigga")
